@@ -11,3 +11,5 @@ The following concepts/courses are required to move further into the fields:
 * Basic [Front-End Web Development](https://learn.freecodecamp.org/)
 * (Optional) Knowledge of basic [Computer Networking](https://www.geeksforgeeks.org/computer-network-tutorials/)
 * [Git](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
+
+Now, you're ready to dive into either of [Blockchain](Blockchain.md) or [Cyber Security](CyberSec.md)!
