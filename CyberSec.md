@@ -1,8 +1,12 @@
 # Cyber Security
 
-[Click me first](AS6380756171694101529140490119_content_1.pdf)
+***[Click me first](AS6380756171694101529140490119_content_1.pdf)***
 
-Apart from the prerequisites mentioned in the main readme, Cyber Security as a domain requires a few more fundamental concepts and topics to be covered. An exhaustive introduction can be found in [Cisco Networking Academy's Introduction to Cyber Security](https://www.netacad.com/courses/security/cybersecurity-essentials), and in [SANS Cyber Aces Online Tutorial](https://tutorials.cyberaces.org/tutorials.html).
+Apart from the prerequisites mentioned in the main readme, Cyber Security as a domain requires a few more fundamental concepts and topics to be covered. An exhaustive introduction can be found in [Cisco Networking Academy's Introduction to Cyber Security](https://www.netacad.com/courses/security/cybersecurity-essentials), and in [SANS Cyber Aces Online Tutorial](https://tutorials.cyberaces.org/tutorials.html).  
+
+Before you go ahead and dive into any of the fields below, play a few CTFs ([WTF is CTF?](https://ctftime.org/ctf-wtf/)) to practice and hone your basic skills. A good start would be the [picoCTF](https://picoctf.com/) followed by [OverTheWire's wargames](https://overthewire.org/wargames/)!  
+
+**Jump into any one of the sections below that you wish. Specialize in one and then go for others!**
 ## Computer Forensics
 [What is Computer Forensics?](https://www.open.edu/openlearn/science-maths-technology/digital-forensics/content-section-0?intro=1)  
 
@@ -29,3 +33,12 @@ Here's a nifty [cheatsheet](https://picoctf.com/learning_guides/Book-2-Cryptogra
 ## Web Exploitation and Scraping
 [What counts as Web Exploitation?](https://www.valencynetworks.com/blogs/cyber-attacks-explained-web-exploitation/)
 
+* What is [SQL Injection](https://www.w3schools.com/sql/sql_injection.asp) and how to use [SQLMap](https://github.com/sqlmapproject/sqlmap/wiki)
+* Man-in-the-middle attacking using [mitmproxy](https://docs.mitmproxy.org/stable/)
+* Understanding [Cross-site Scripting](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
+* Forcing out hidden directories using [DirBuster](https://www.hackingarticles.in/comprehensive-guide-on-dirbuster-tool/)
+* Learn [PHP](https://www.w3schools.com/php/)
+
+## Binary Exploitation
+
+Here's a [CTF-themed overview](https://ctf101.org/binary-exploitation/overview/) of Binary Exploitation and all it's concepts. Being a very vast and vaguely defined topic, it is essential to know the techniques and tools before the theory to properly form an outlook. Don't be scared if you can't do this, it's one of the most difficult yet the most sought-after expertise in Cyber Security!
