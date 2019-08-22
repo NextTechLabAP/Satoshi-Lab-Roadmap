@@ -7,3 +7,7 @@ The following concepts/courses are required to move further into the fields:
 * [Linux](https://www.edx.org/course/introduction-to-linux)
 * Any Higher-level programming language ([Python](https://docs.python.org/3/tutorial/), [JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript), etc.)
 * Any Lower-level programming language ([C](https://www.learn-c.org/), [C++](https://www.learncpp.com/), etc.]
+* Data handling using [SQL](https://sqlbolt.com)
+* Basic [Front-End Web Development](https://learn.freecodecamp.org/)
+* (Optional) Knowledge of basic [Computer Networking](https://www.geeksforgeeks.org/computer-network-tutorials/)
+* [Git](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
