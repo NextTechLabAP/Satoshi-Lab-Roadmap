@@ -37,7 +37,7 @@ Here's a nifty [cheatsheet](https://picoctf.com/learning_guides/Book-2-Cryptogra
 * Man-in-the-middle attacking using [mitmproxy](https://docs.mitmproxy.org/stable/)
 * Understanding [Cross-site Scripting](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
 * Forcing out hidden directories using [DirBuster](https://www.hackingarticles.in/comprehensive-guide-on-dirbuster-tool/)
-* Learn [PHP](https://www.w3schools.com/php/)
+* Learn [PHP](https://www.w3schools.com/php/) and [JSON](https://www.tutorialspoint.com/json/index.htm)
 
 ## Binary Exploitation
 
