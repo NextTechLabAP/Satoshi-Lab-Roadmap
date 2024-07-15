@@ -30,6 +30,13 @@ Here's a nifty [cheatsheet](https://picoctf.com/learning_guides/Book-2-Cryptogra
 * Using [IDA](https://www.hex-rays.com/products/ida/support/idadoc/) for Disassembly and Decompiling
 * Debugging using [GDB](https://betterexplained.com/articles/debugging-with-gdb/)
 
+## Malware Analysis 
+[What is Malware Analysis?](https://www.crowdstrike.com/cybersecurity-101/malware/malware-analysis/)
+
+* How to setup a [Lab environment](https://systemweakness.com/building-a-secure-malware-analysis-lab-from-scratch-a-step-by-step-guide-2cbf15ba7c2c) for malware analysis
+* Windows security internals [book](https://nostarch.com/windows-security-internals)
+* Primer to malware analysis [book](https://nostarch.com/malware)
+
 ## Web Exploitation and Scraping
 [What counts as Web Exploitation?](https://www.valencynetworks.com/blogs/cyber-attacks-explained-web-exploitation/)
 
@@ -38,6 +45,7 @@ Here's a nifty [cheatsheet](https://picoctf.com/learning_guides/Book-2-Cryptogra
 * Understanding [Cross-site Scripting](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
 * Forcing out hidden directories using [DirBuster](https://www.hackingarticles.in/comprehensive-guide-on-dirbuster-tool/)
 * Learn [PHP](https://www.w3schools.com/php/) and [JSON](https://www.tutorialspoint.com/json/index.htm)
+* Hands-on Labs on [Portswigger](https://portswigger.net/web-security)
 
 ## Binary Exploitation
 
