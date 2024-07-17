@@ -7,6 +7,12 @@ Apart from the prerequisites mentioned in the main readme, Cyber Security as a d
 Before you go ahead and dive into any of the fields below, play a few CTFs ([WTF is CTF?](https://ctftime.org/ctf-wtf/)) to practice and hone your basic skills. A good start would be the [picoCTF](https://picoctf.com/) followed by [OverTheWire's wargames](https://overthewire.org/wargames/)!  
 
 **Jump into any one of the sections below that you wish. Specialize in one and then go for others!**
+
+## Tool building
+The secret to a great cybersecurity engineer is the ability to build software that tailors to their need. Whether the purpose is to root, test or even protect. 
+* This is an advanced guide for bash: [Black-Hat Bash](https://nostarch.com/black-hat-bash)
+* Rust combines high-level logic with machine-level control: [Black-Hat Rust](https://kerkour.com/black-hat-rust)
+
 ## Computer Forensics
 [What is Computer Forensics?](https://www.open.edu/openlearn/science-maths-technology/digital-forensics/content-section-0?intro=1)  
 
