@@ -6,7 +6,16 @@ Apart from the prerequisites mentioned in the main readme, Cyber Security as a d
 
 Before you go ahead and dive into any of the fields below, play a few CTFs ([WTF is CTF?](https://ctftime.org/ctf-wtf/)) to practice and hone your basic skills. A good start would be the [picoCTF](https://picoctf.com/) followed by [OverTheWire's wargames](https://overthewire.org/wargames/)!  
 
+Also, If you can't seem to afford physical or e-copies of any books mentioned, fret not! You can download them from any shadow archive like [Libgen](https://libgen.is)
+
 **Jump into any one of the sections below that you wish. Specialize in one and then go for others!**
+
+## Tool building
+The secret to a great cybersecurity engineer is the ability to build software that tailors to their need. Whether the purpose is to root, test or even protect. 
+* This is an advanced guide for bash: [Black-Hat Bash](https://nostarch.com/black-hat-bash)
+* Rust combines high-level logic with machine-level control: [Black-Hat Rust](https://kerkour.com/black-hat-rust)
+* Learn basics of C & x86ASM with [Dive into systems](https://diveintosystems.org/book/)
+
 ## Computer Forensics
 [What is Computer Forensics?](https://www.open.edu/openlearn/science-maths-technology/digital-forensics/content-section-0?intro=1)  
 
@@ -30,13 +39,6 @@ Here's a nifty [cheatsheet](https://picoctf.com/learning_guides/Book-2-Cryptogra
 * Using [IDA](https://www.hex-rays.com/products/ida/support/idadoc/) for Disassembly and Decompiling
 * Debugging using [GDB](https://betterexplained.com/articles/debugging-with-gdb/)
 
-## Malware Analysis 
-[What is Malware Analysis?](https://www.crowdstrike.com/cybersecurity-101/malware/malware-analysis/)
-
-* How to setup a [Lab environment](https://systemweakness.com/building-a-secure-malware-analysis-lab-from-scratch-a-step-by-step-guide-2cbf15ba7c2c) for malware analysis
-* Windows security internals [book](https://nostarch.com/windows-security-internals)
-* Primer to malware analysis [book](https://nostarch.com/malware)
-
 ## Web Exploitation and Scraping
 [What counts as Web Exploitation?](https://www.valencynetworks.com/blogs/cyber-attacks-explained-web-exploitation/)
 
@@ -50,3 +52,10 @@ Here's a nifty [cheatsheet](https://picoctf.com/learning_guides/Book-2-Cryptogra
 ## Binary Exploitation
 
 Here's a [CTF-themed overview](https://ctf101.org/binary-exploitation/overview/) of Binary Exploitation and all it's concepts. Being a very vast and vaguely defined topic, it is essential to know the techniques and tools before the theory to properly form an outlook. Don't be scared if you can't do this, it's one of the most difficult yet the most sought-after expertise in Cyber Security!
+
+## Malware Analysis 
+[What is Malware Analysis?](https://www.crowdstrike.com/cybersecurity-101/malware/malware-analysis/)
+
+* How to setup a [Lab environment](https://systemweakness.com/building-a-secure-malware-analysis-lab-from-scratch-a-step-by-step-guide-2cbf15ba7c2c) for malware analysis
+* Practical binary analysis [book](https://nostarch.com/binaryanalysis)
+* Primer to malware analysis [book](https://nostarch.com/malware)
