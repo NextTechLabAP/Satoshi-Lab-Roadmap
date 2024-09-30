@@ -36,6 +36,7 @@ Here's a nifty [cheatsheet](https://picoctf.com/learning_guides/Book-2-Cryptogra
 [What is Reverse Engineering?](https://www.geeksforgeeks.org/software-engineering-reverse-engineering/)
 
 * A crash-course/cheatsheet on [Assembly Languages and Code](https://www.tutorialspoint.com/assembly_programming/assembly_quick_guide.htm)
+* reverse engineering for [noobs](https://x86re.com/1.html)
 * Using [IDA](https://www.hex-rays.com/products/ida/support/idadoc/) for Disassembly and Decompiling
 * Debugging using [GDB](https://betterexplained.com/articles/debugging-with-gdb/)
 
@@ -43,6 +44,7 @@ Here's a nifty [cheatsheet](https://picoctf.com/learning_guides/Book-2-Cryptogra
 [What counts as Web Exploitation?](https://www.valencynetworks.com/blogs/cyber-attacks-explained-web-exploitation/)
 
 * What is [SQL Injection](https://www.w3schools.com/sql/sql_injection.asp) and how to use [SQLMap](https://github.com/sqlmapproject/sqlmap/wiki)
+* How does [Nmap](https://nmap.org) actually work? [Port Scanning](https://www.youtube.com/watch?v=1kWZ1FvOe0o&pp=ygUTYW5raXQgY2hhaHVoYW4gbm1hcA%3D%3D) explained
 * Man-in-the-middle attacking using [mitmproxy](https://docs.mitmproxy.org/stable/)
 * Understanding [Cross-site Scripting](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
 * Forcing out hidden directories using [DirBuster](https://www.hackingarticles.in/comprehensive-guide-on-dirbuster-tool/)
