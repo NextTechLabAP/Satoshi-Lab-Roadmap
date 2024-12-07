@@ -7,11 +7,15 @@
 
 **MUST READ PORTION**
 
-Always make sure you work for the morally good side of you. Also, remember to patiently and wisely study every single resource accordingly. Patience and persistence are one of the most important qualities of CyberSecurity engineering. 
+Always make sure you work for the morally good side of you. Also, remember to patiently and wisely study every single resource accordingly. 
+
+Patience and persistence are one of the most important qualities of CyberSecurity engineering. 
+
 Apart from the prerequisites mentioned in the main readme, Cyber Security as a domain requires a few more fundamental concepts and topics to be covered. 
+
 Follow the links sequentially, If you can't seem to afford physical or e-copies of any books mentioned, fret not! You can download them from any shadow archive like [Libgen](https://libgen.is)
 
-- **Intro to Cybersecurity**: [Cisco NetAcad Course](https://www.netacad.com/courses/introduction-to-cybersecurity)
+Alright, let's start with [the foundations](https://www.netacad.com/courses/introduction-to-cybersecurity) (Click me!)
 
 ## 2. Basics
 
