@@ -82,6 +82,11 @@ Here's a nifty [cheatsheet](https://picoctf.com/learning_guides/Book-2-Cryptogra
 ## 4. Preparing for Interviews
 - [Cybersecurity Interview Guide (PDF)](https://cdn.ttgtmedia.com/rms/pdf/bookshelf_hack_the_cybersecurity_interview_excerpt.pdf)
 
+## 4.B Capture The Flags
+But what is a [CTF](https://www.geeksforgeeks.org/what-is-ctfs-capture-the-flag/)?
+- [Learn how CTFs work](https://www.root-me.org)
+- [live CTFs](https://ctftime.org/)
+
 ## 4.A Certifications
 - [eJPT: Red Team, Entry-level](https://security.ine.com/certifications/ejpt-certification/)
 - [Comptia CySA+: Blue Team, Intermediate-Level](https://partners.comptia.org/certifications/cybersecurity-analyst)
