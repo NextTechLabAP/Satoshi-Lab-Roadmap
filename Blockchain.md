@@ -8,6 +8,9 @@ Alright, let’s dive into the [foundations of blockchain](https://www.coursera.
 
 ## 2. Basics
 
+- [Blockchain Basics course by Cyfrin Updraft](https://updraft.cyfrin.io/courses/blockchain-basics)
+- [Solidity Smart Contract Development by Cyfrin Updraft](https://updraft.cyfrin.io/courses/solidity)
+- [Ethereum Developer Degree by LearnWeb3](https://learnweb3.io/degrees/ethereum-developer-degree/)
 - [How blockchain transactions happen](https://andersbrownworth.com/blockchain/)
 - [freeCodeCamp's course on JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
 - [ChainShot's hands-on Blockchain with JS course](https://www.chainshot.com/intro/5c36bf15143eed0017f579755bcdf0c31cf372e860c8b8c3)
@@ -15,6 +18,7 @@ Alright, let’s dive into the [foundations of blockchain](https://www.coursera.
 - [A crash course on Solidity and Smart Contracts](https://medium.com/coinmonks/introduction-to-solidity-programming-and-smart-contracts-for-complete-beginners-eb46472058cf)
 - [Hardhat - Ethereum development environment](https://hardhat.org/)
 - [Ethereum IDE - Remix](https://remix.ethereum.org/)
+- [EVM Opcodes](https://www.evm.codes/)
 
 ## 3. Learning Resources
 
@@ -62,3 +66,12 @@ Alright, let’s dive into the [foundations of blockchain](https://www.coursera.
 - [Web3.js](https://web3js.readthedocs.io/en/v1.10.0/)
 - [Ethers](https://docs.ethers.org/v5/)
 
+## 7. Solana Blockchain Resources
+- [Solana Docs](https://solana.com/de/docs)
+- [Anchor Docs](https://www.anchor-lang.com/docs)
+- [Solana Wallet Adapter](https://github.com/anza-xyz/wallet-adapter?tab=readme-ov-file)
+- [Solana Bootcamp - 1](https://www.youtube.com/watch?v=amAq-WHAFs8)
+- [Solana Bootcamp - 2](https://www.youtube.com/watch?v=HOdYZSe1uhE)
+- [Solana Explorer](https://explorer.solana.com/)
+- [Blogs](https://www.helius.dev/blog)
+- [Solana Handbook](https://ackee.xyz/solana/book/latest/)
