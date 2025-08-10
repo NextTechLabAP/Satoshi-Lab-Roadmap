@@ -8,6 +8,9 @@ Alright, let’s dive into the [foundations of blockchain](https://www.coursera.
 
 ## 2. Basics
 
+- [Blockchain Basics course by Cyfrin Updraft](https://updraft.cyfrin.io/courses/blockchain-basics)
+- [Solidity Smart Contract Development by Cyfrin Updraft](https://updraft.cyfrin.io/courses/solidity)
+- [Ethereum Developer Degree by LearnWeb3](https://learnweb3.io/degrees/ethereum-developer-degree/)
 - [How blockchain transactions happen](https://andersbrownworth.com/blockchain/)
 - [freeCodeCamp's course on JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
 - [ChainShot's hands-on Blockchain with JS course](https://www.chainshot.com/intro/5c36bf15143eed0017f579755bcdf0c31cf372e860c8b8c3)
@@ -15,6 +18,7 @@ Alright, let’s dive into the [foundations of blockchain](https://www.coursera.
 - [A crash course on Solidity and Smart Contracts](https://medium.com/coinmonks/introduction-to-solidity-programming-and-smart-contracts-for-complete-beginners-eb46472058cf)
 - [Hardhat - Ethereum development environment](https://hardhat.org/)
 - [Ethereum IDE - Remix](https://remix.ethereum.org/)
+- [EVM Opcodes](https://www.evm.codes/)
 
 ## 3. Learning Resources
 
